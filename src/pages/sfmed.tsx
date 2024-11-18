@@ -219,7 +219,7 @@ export default function SFmedi() {
         
         </div>
 
-<p>G2 Licensed Agent : Gregory K. Teipelz</p>
+{/* <p>G2 Licensed Agent : Gregory K. Teipelz</p> */}
         {/* <p>{zipCode} </p> */}
       </div>
       
