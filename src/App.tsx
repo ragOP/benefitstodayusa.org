@@ -42,6 +42,7 @@ import SFmedi from './pages/sfmed';
 import Unlock from './pages/unlock';
 import Bg from './pages/sfmed_bg';
 import Ths from './pages/Ths';
+import Eng from './pages/Eng';
 function App() {
  
   return (
@@ -54,6 +55,7 @@ function App() {
 
           <Route path = "/engmed-tsf" element = {<Tsf/>} />
   <Route path = "/engmed-ths" element = {<Ths/>} />
+  <Route path='/eng1' element={<Eng />} />
           
           <Route path = "/sfmedi" element = {<SFmedi/>} />
           <Route path = "/sfmedi-unlock" element = {<Unlock/>} />
